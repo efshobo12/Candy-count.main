@@ -1,0 +1,12 @@
+2015 -> 2016
+  In 2015 but not in 2016 (6): Central African Republic, Djibouti, Lesotho, Mozambique, Oman, Swaziland
+  In 2016 but not in 2015 (5): Belize, Namibia, Puerto Rico, Somalia, South Sudan
+2016 -> 2017
+  In 2016 but not in 2017 (5): Comoros, Laos, Puerto Rico, Somaliland Region, Suriname
+  In 2017 but not in 2016 (3): Central African Republic, Lesotho, Mozambique
+2017 -> 2018
+  In 2017 but not in 2018 (0): none
+  In 2018 but not in 2017 (1): Laos
+2018 -> 2019
+  In 2018 but not in 2019 (3): Angola, Belize, Sudan
+  In 2019 but not in 2018 (3): Comoros, Gambia, Swaziland
